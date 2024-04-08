@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Subscriber {
+public interface Subscriber {
+    public void showNotifications(String text);
 }
